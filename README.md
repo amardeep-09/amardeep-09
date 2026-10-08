@@ -27,11 +27,11 @@ With 10+ years of experience and 4,500+ hours on Upwork, I'm the developer clien
 
 ## 🚀 Recent Work
 
-- 📱 Hybrid mobile app with QR code scanning
+- 📱 Hybrid mobile app using React Native/Flutter/MAUI
 - 🏦 Backend integrations for SaaS platforms in financial services
 - 🐍 Python scripts refactored into a stable PyQt desktop application
 - 🌐 Blazor apps for ADAS systems and Tax Systems
-- 📝 WYSIWYG editor integration for SaaS projects
+- 📝 SaaS projects
 - 🏨 Lightweight static frontend for a direct booking engine
 
 ---
@@ -105,9 +105,7 @@ Military veteran: disciplined, accountable, and deadline-focused. English fluent
 
 Send me a short description of your project and I'll reply within a few hours (average response: 0–4 hours). Available 30+ hrs/week, open to contract-to-hire.
 
-[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_PROFILE_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010ad952a3d3e46d1f)  
 
 <!-- Optional: add GitHub stats cards once you replace YOUR_GITHUB_USERNAME
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
